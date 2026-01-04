@@ -1,6 +1,6 @@
 # A_Shapes
 
-This folder contains simple examples and a starter notebook for exploring basic geometric shapes used in architectural studies.
+This folder contains project folders + simple examples & starter notebook samples for exploring basic geometric shapes
 
 Files:
 
