@@ -15,7 +15,7 @@ Usage:
 python example.py
 ```
 
-2. To use the notebook, open `starter_notebook.ipynb` in Jupyter or VS Code Notebook.
+2. Notebook, open `B_01_Geometric_Patterns_Structures` in Jupyter or VS Code Notebook.
 
 Dependencies:
 
